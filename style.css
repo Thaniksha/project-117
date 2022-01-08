@@ -24,4 +24,25 @@
     height: 10px;
     color: black;
     }
+    .copy_right_footer{
+        position: fixed;
+        bottom: 0;
+        width:100%;
+        background-color: crimson;
+        color: white;
+        line-height: 3;
+        text-align:center;
+    }
+    .result_para_tag{
+       box-shadow:8px 15px 15px white;
+       font-size: 20px;
+    }
+    
+    canvas{
+        border:5px double white ;
+        border-radius: 5px;
+        border-width: 5px;
+        box-shadow: 10px 10px 100px white;
+        margin-top: 150px;
+   }
     
